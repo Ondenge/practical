@@ -1,4 +1,8 @@
 Download working archive with all resources https://drive.google.com/file/d/1wiahBf6qcBEZtVQbx5reyR9xxWIlUE4p/view?usp=sharing
+
+username: superadmin
+Password: superadmin
+
 <p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://avatars0.githubusercontent.com/u/993323" height="100px">
